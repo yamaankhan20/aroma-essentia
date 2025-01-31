@@ -1,10 +1,5 @@
-# Beshop Next App
+# Aroma Essentia Next App
 
-## Preview
-
-Preview the example live on [Beshop](https://beshop-front.vercel.app/):
-
-```
 Run production build with:
 
 bash
